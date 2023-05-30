@@ -1,0 +1,12 @@
+{
+  "name": "b3dm_scrapper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.mjs",
+  "scripts": {
+    "scrap": "node index.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
